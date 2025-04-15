@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sahar Ghasemi 👋</h1>
 <p align="center">
-  <em>Full-Stack Developer | UI/UX Enthusiast | Tech Explorer | Passionate Problem Solver</em>
+  <em>Front End Developer | UI/UX Enthusiast | Tech Explorer | Passionate Problem Solver</em>
 </p>
 
 ---
