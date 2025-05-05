@@ -25,8 +25,8 @@ I specialize in building robust, scalable web applications using modern technolo
 ### 🛠 Tech Stack
 
 ```ts
-Languages:   JavaScript, TypeScript, Python, Java, C#, SQL
-Frontend:    React, Next.js, Tailwind, MUI, HTML5, CSS3, SASS
+Languages:   JavaScript, TypeScript, Python, Java, C#, PHP, SQL
+Frontend:    React, Next.js, Tailwind, MUI, HTML5, CSS3, SASS, WordPress
 Database:    PostgreSQL, MySQL, SQL Server, Prisma
 Tools:       Git, GitHub, Postman, Figma, Vite, Linux, VS Code
 DevOps:      AWS, Docker
